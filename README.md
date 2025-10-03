@@ -73,7 +73,7 @@ As a college research project, this work demonstrates how interdisciplinary appr
 
 - **Anoop**
 - **Gopika**
-- **Namritha**
+- **Namratha **
 - **Ashwath**
 
 ---
