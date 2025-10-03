@@ -71,11 +71,10 @@ As a college research project, this work demonstrates how interdisciplinary appr
 
 ## Team Members
 
-- **Ashwath**
+- **Anoop**
 - **Gopika**
 - **Namritha**
-- **Anoop**
+- **Ashwath**
 
 ---
 
-*This project represents an exploration into the behavioral characteristics of artificial intelligence, using well-established psychological frameworks to better understand these increasingly influential systems.*
