@@ -31,12 +31,12 @@ This project creates standardized methods for evaluating and comparing different
 
 Our research uses six carefully curated datasets:
 
-- **big5_questions.json** - Standard Big Five personality questionnaire items
-- **dark_triad_questions.json** - Items measuring darker personality dimensions
-- **compliance_questions.json** - Questions about rule-following and ethical behavior
+- **big5_questions.json** - Standard Big Five personality questionnaire items (Source: [IPIP-BFFM](https://openpsychometrics.org/tests/IPIP-BFFM/))
+- **dark_triad_questions.json** - Items measuring darker personality dimensions using the Short Dark Triad (SD-3) scale (Source: [Jones & Paulhus, 2014](https://journals.sagepub.com/doi/abs/10.1177/1073191113514105))
+- **compliance_questions.json** - Extracted subset from moralchoice_high_ambiguity.csv for focused ethical analysis
 - **sample_compliance_questions.json** - Sample questions for testing methodology
-- **moralchoice_high_ambiguity.csv** - Complex ethical dilemmas with no clear right answer
-- **moralchoice_low_ambiguity.csv** - Straightforward moral scenarios for baseline assessment
+- **moralchoice_high_ambiguity.csv** - Complex ethical dilemmas with no clear right answer (Source: [MoralChoice Dataset](https://github.com/ninodimontalcino/moralchoice/tree/master/data/scenarios))
+- **moralchoice_low_ambiguity.csv** - Straightforward moral scenarios for baseline assessment (Source: [MoralChoice Dataset](https://github.com/ninodimontalcino/moralchoice/tree/master/data/scenarios))
 
 ## Our Approach
 
@@ -58,6 +58,12 @@ This research contributes to the broader field of AI alignment and interpretabil
 ## Research Foundations
 
 This project builds on recent advances in AI psychometrics and model interpretability. Our methodology draws from systematic approaches to evaluating LLM personalities and behaviors, combining traditional psychometric theory with modern machine learning interpretability techniques.
+
+### Key References
+
+- **MoralChoice Dataset**: Hendrycks, D., et al. (2023). "Aligning AI With Shared Human Values." *NeurIPS 2023*. [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/a2cf225ba392627529efef14dc857e22-Paper-Conference.pdf) | [Dataset](https://github.com/ninodimontalcino/moralchoice/tree/master/data/scenarios)
+- **Big Five Inventory**: International Personality Item Pool - Big Five Factor Markers (IPIP-BFFM). [Test](https://openpsychometrics.org/tests/IPIP-BFFM/)
+- **Short Dark Triad (SD-3)**: Jones, D. N., & Paulhus, D. L. (2014). "Introducing the Short Dark Triad (SD3): A Brief Measure of Dark Personality Traits." *Assessment*, 21(1), 28-41. [Paper](https://journals.sagepub.com/doi/abs/10.1177/1073191113514105)
 
 ## Project Significance
 
