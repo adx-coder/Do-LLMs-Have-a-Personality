@@ -1,0 +1,34 @@
+{
+  "mixtral": {
+    "name": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+    "token": "x"
+  },
+  "llama": {
+    "name": "meta-llama/Llama-3.1-8B",
+    "token": "x"
+  },
+  "afm": {
+    "name": "arcee-ai/AFM-4.5B",
+    "token": "x"
+  },
+  "phi3": {
+    "name": "microsoft/Phi-3-mini-4k-instruct",
+    "token": "x"
+  },
+  "gemma": {
+    "name": "google/gemma-7b",
+    "token": "x"
+  },
+  "qwen": {
+    "name": "Qwen/Qwen3-8B",
+    "token": "x"
+  },
+  "nemotron": {
+    "name": "nvidia/Nemotron-Orchestrator-8B",
+    "token": "x"
+  },
+  "gpt2": {
+    "name": "openai-community/gpt2",
+    "token": "x"
+  }
+}
