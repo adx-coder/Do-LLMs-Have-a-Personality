@@ -1,4 +1,0 @@
-/* 
-  This file is no longer used. 
-  Data has been moved to index.html script block.
-*/
